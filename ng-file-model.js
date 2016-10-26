@@ -21,7 +21,7 @@
                             };
                         });
                     }
-                    reader.readAsDataURL(changeEvent.target.files[0]);
+                    //reader.readAsDataURL(changeEvent.target.files[0]);
                 });
             }
         }
